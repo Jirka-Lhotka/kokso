@@ -1,2 +1,0 @@
-# kokso
-Created with CodeSandbox
